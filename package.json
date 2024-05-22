@@ -1,0 +1,13 @@
+{
+  "name": "discord-moderation-bot",
+  "version": "1.0.0",
+  "description": "Discord moderation bot for server management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "mongoose": "^6.0.13"
+  }
+}
